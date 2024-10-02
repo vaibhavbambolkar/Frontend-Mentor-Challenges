@@ -29,9 +29,6 @@ body {
 .card-img-box img {
   width: 100%;
   border-radius: 10px;
-
-  /* To remove space below image */
-  display: block;
 }
 
 .card-text-box {
